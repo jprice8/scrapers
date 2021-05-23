@@ -1,0 +1,7 @@
+# Ignore any downloaded files
+*.xlsx
+*.png
+
+# env
+venv
+.env 
